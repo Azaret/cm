@@ -1,0 +1,26 @@
+{
+    "name": "cc",
+    "description": "CM",
+    "version": "3.0.0",
+    "private": true,
+    "dependencies": {
+        "babel-preset-es2015": "6.x",
+        "bower": "1.x",
+        "del": "2.x",
+        "gulp": "3.x",
+        "gulp-if": "2.x",
+        "gulp-debug": "2.x",
+        "gulp-babel": "6.x",
+        "gulp-bower": "0.x",
+        "gulp-less": "3.x",
+        "gulp-cssnano": "2.x",
+        "gulp-rename": "1.x",
+        "gulp-sourcemaps": "1.x",
+        "gulp-uglify": "1.x",
+        "gulp-util": "3.x",
+        "gulp-strip-json-comments": "2.x",
+        "main-bower-files": "2.x",
+        "npm-check-updates": "2.x",
+        "time-require": "https://github.com/Azaret/time-require/archive/v0.1.3.tar.gz"
+    }
+}
